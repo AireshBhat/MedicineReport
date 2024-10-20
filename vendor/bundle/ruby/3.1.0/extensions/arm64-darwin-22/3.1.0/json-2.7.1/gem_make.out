@@ -1,0 +1,13 @@
+current directory: /Users/aireshbhat/Airesh/24_Projects/MedicineReport/vendor/bundle/ruby/3.1.0/gems/json-2.7.1/ext/json
+/Users/aireshbhat/.rubies/ruby-3.1.2/bin/ruby -I /Users/aireshbhat/.rubies/ruby-3.1.2/lib/ruby/3.1.0 -r ./siteconf20241020-34910-1ixp8e.rb extconf.rb
+creating Makefile
+
+current directory: /Users/aireshbhat/Airesh/24_Projects/MedicineReport/vendor/bundle/ruby/3.1.0/gems/json-2.7.1/ext/json
+make DESTDIR\= clean
+
+current directory: /Users/aireshbhat/Airesh/24_Projects/MedicineReport/vendor/bundle/ruby/3.1.0/gems/json-2.7.1/ext/json
+make DESTDIR\=
+make: Nothing to be done for `all'.
+
+current directory: /Users/aireshbhat/Airesh/24_Projects/MedicineReport/vendor/bundle/ruby/3.1.0/gems/json-2.7.1/ext/json
+make DESTDIR\= install
