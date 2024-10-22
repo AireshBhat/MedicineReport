@@ -5,7 +5,6 @@ import { createBottomTabNavigator } from '@react-navigation/bottom-tabs';
 import Home from '../screens/Home/Home.screen';
 import Profile from '../screens/Profile/Profile.screen';
 import Icon from 'react-native-vector-icons/Ionicons';
-import AntDesignIcon from 'react-native-vector-icons/AntDesign';
 
 const Stack = createNativeStackNavigator();
 const Tab = createBottomTabNavigator();
